@@ -24,7 +24,7 @@
 
 ## Book Cover
 
-![PR-TOOLBOX-BOOKCOVER](https://github.com/user-attachments/assets/9467ad1a-36b6-4940-ac7e-f866ad17f619)
+![PR-TOOLBOX-BOOKCOVER](https://github.com/user-attachments/assets/1c428480-9d71-4c2b-a294-0d6902fbf0d7)
 
-<img src="https://github.com/user-attachments/assets/9467ad1a-36b6-4940-ac7e-f866ad17f619" width="500" height="auto">
+<img src="https://github.com/user-attachments/assets/1c428480-9d71-4c2b-a294-0d6902fbf0d7" width="500" height="auto">
 
