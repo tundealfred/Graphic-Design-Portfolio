@@ -16,6 +16,10 @@
 
 [AYSAR Presentation 8_Final.pdf](https://github.com/user-attachments/files/16920174/AYSAR.Presentation.8_Final.pdf)
 
+## Book Cover
+
+<img src="https://github.com/user-attachments/assets/1c428480-9d71-4c2b-a294-0d6902fbf0d7" width="500" height="auto">
+
 ## Flyers
 
 <img src="https://github.com/user-attachments/assets/42c0d093-f93c-416b-adaa-02edb92eee7b" width="500" height="auto">
@@ -25,6 +29,12 @@
 <img src="https://github.com/user-attachments/assets/ed78ef96-91a4-41ca-93f6-af7ef2edaa0b" width="500" height="auto">
 
 <img src="https://github.com/user-attachments/assets/f437ba1c-04ce-4ed2-b28a-d9671358b523" width="500" height="auto">
+
+<img src="https://github.com/user-attachments/assets/82badffd-75f1-412c-baac-e7c2b3ed4e70" width="500" height="auto">
+
+<img src="https://github.com/user-attachments/assets/2c63ca42-080f-4af2-ba97-c27c33687744" width="500" height="auto">
+
+<img src="https://github.com/user-attachments/assets/9bfeaeba-9149-47fa-ae2c-8b02e9ed5fb1" width="500" height="auto">
 
 
 ## Book Cover
