@@ -1,4 +1,4 @@
-# Graphic-Design-Portfolio
+# Graphic Design and Multimedia Portfolio
 
 
 ## Websites and Social media
