@@ -18,7 +18,7 @@
 
 ## Book Cover
 
-<img src="https://github.com/user-attachments/assets/1c428480-9d71-4c2b-a294-0d6902fbf0d7" width="500" height="auto">
+<img src="https://github.com/user-attachments/assets/1c428480-9d71-4c2b-a294-0d6902fbf0d7" width="400" height="auto">
 
 ## Flyers
 
