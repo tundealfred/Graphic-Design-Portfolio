@@ -36,8 +36,29 @@
 
 <img src="https://github.com/user-attachments/assets/9bfeaeba-9149-47fa-ae2c-8b02e9ed5fb1" width="500" height="auto">
 
+<img src="https://github.com/user-attachments/assets/edf3e3bd-28d0-4353-893b-1fb52a26d4bc" width="500" height="auto">
 
-## Book Cover
+<img src="https://github.com/user-attachments/assets/ccdcb308-e407-41c9-8e9a-66573abbc018" width="500" height="auto">
 
-<img src="https://github.com/user-attachments/assets/1c428480-9d71-4c2b-a294-0d6902fbf0d7" width="500" height="auto">
+<img src="https://github.com/user-attachments/assets/6a4f736d-0511-4b63-ba3f-c3263861acf7" width="500" height="auto">
+
+<img src="https://github.com/user-attachments/assets/512147d8-0b2f-489f-ae3c-9f421af495dd" width="500" height="auto">
+
+<img src="https://github.com/user-attachments/assets/e45256e6-68c5-47e0-92ff-781e8b189982" width="500" height="auto">
+
+## Business cards
+
+<img src="https://github.com/user-attachments/assets/108d2a56-98cd-4ee4-9b1e-5da504f3e180" width="500" height="auto">
+
+<img src="https://github.com/user-attachments/assets/86abaa9c-ff39-496b-89a4-965055c2a341" width="500" height="auto">
+
+<img src="https://github.com/user-attachments/assets/2fcfcb4c-5a4b-4a9c-a99f-70bf4093aa85" width="500" height="auto">
+
+<img src="https://github.com/user-attachments/assets/54704f5f-118f-49ad-b28b-a6b58d0daa40" width="500" height="auto">
+
+## Letter heads
+
+
+
+
 
