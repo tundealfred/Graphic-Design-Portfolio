@@ -84,6 +84,15 @@
 
 <img src="https://github.com/user-attachments/assets/2e77b904-b0ee-4c26-a2ab-59718c659e8c" width="400" height="auto">
 
+## Training materials
+
+<img src="https://github.com/user-attachments/assets/4d7ca665-c93c-41bc-92b1-df69570fa338" width="400" height="auto">
+
+<img src="https://github.com/user-attachments/assets/b0ee47ad-d4e1-41d0-8968-9908827d5e1b" width="400" height="auto">
+
+
+
+
 
 
 
