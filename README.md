@@ -6,7 +6,7 @@
 
 ## Brand Guidelines
 
-
+[SCML Brand Guidelines Presentation (2).pdf](https://github.com/user-attachments/files/16920180/SCML.Brand.Guidelines.Presentation.2.pdf)
 
 ## Business Proposal
 
