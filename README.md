@@ -18,13 +18,8 @@
 
 ## Flyers
 
-![OMD_flyer1](https://github.com/user-attachments/assets/42c0d093-f93c-416b-adaa-02edb92eee7b)
+<img src="https://github.com/user-attachments/assets/42c0d093-f93c-416b-adaa-02edb92eee7b" width="500" height="auto">
 
-![Photography-Promotion-Flyer](https://github.com/user-attachments/assets/2bfdea1f-fe8b-4f9c-b217-69cafb0eb201)
-
-
-<img src="https://github.com/user-attachments/assets/42c0d093-f93c-416b-adaa-02edb92eee7b" width="500" height="700">
-
-<img src="https://github.com/user-attachments/assets/2bfdea1f-fe8b-4f9c-b217-69cafb0eb201" width="500" height="700">
+<img src="https://github.com/user-attachments/assets/2bfdea1f-fe8b-4f9c-b217-69cafb0eb201" width="500" height="auto">
 
 
