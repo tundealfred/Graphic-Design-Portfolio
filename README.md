@@ -8,8 +8,6 @@
 
 <img src="https://github.com/user-attachments/assets/07a8a2e8-3783-4fa4-b199-768163b1775a" width="300" height="300">
 
-![sewe_logo (3)](https://github.com/user-attachments/assets/07a8a2e8-3783-4fa4-b199-768163b1775a)
-
 ## Brand Guidelines
 
 [SCML Brand Guidelines Presentation (2).pdf](https://github.com/user-attachments/files/16920180/SCML.Brand.Guidelines.Presentation.2.pdf)
