@@ -12,8 +12,6 @@
 [Wirral Change](https://wirralchange.org.uk/) 
 
 
-
-
 ## Logos
 
 <img src="https://github.com/user-attachments/assets/d7ae204d-4659-4d68-ad66-dbf15ad4d8fa" width="300" height="300">
@@ -30,11 +28,11 @@
 
 ## Brand Guidelines
 
-[SCML Brand Guidelines Presentation (2).pdf](https://github.com/user-attachments/files/16920180/SCML.Brand.Guidelines.Presentation.2.pdf)
+[SCML Brand Guidelines Presentation.pdf](https://github.com/user-attachments/files/16920180/SCML.Brand.Guidelines.Presentation.2.pdf)
 
 ## Business Proposals
 
-[AYSAR Presentation 8_Final.pdf](https://github.com/user-attachments/files/16920174/AYSAR.Presentation.8_Final.pdf)
+[AYSAR Proposal Presentation.pdf](https://github.com/user-attachments/files/16920174/AYSAR.Presentation.8_Final.pdf)
 
 ## Book Covers
 
@@ -85,6 +83,8 @@
 <img src="https://github.com/user-attachments/assets/2e77b904-b0ee-4c26-a2ab-59718c659e8c" width="400" height="auto">
 
 ## Training materials
+
+[Presentation Soybean Training Flip CHart.pdf](https://github.com/user-attachments/files/16923582/Presentation.Soybean.Training.Flip.CHart.pdf)
 
 <img src="https://github.com/user-attachments/assets/4d7ca665-c93c-41bc-92b1-df69570fa338" width="400" height="auto">
 
