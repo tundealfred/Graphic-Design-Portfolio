@@ -6,6 +6,9 @@
 
 <img src="https://github.com/user-attachments/assets/811a061d-45f0-4d1f-8189-d2725fdb6be9" width="300" height="300">
 
+<img src="https://github.com/user-attachments/assets/07a8a2e8-3783-4fa4-b199-768163b1775a" width="300" height="300">
+
+![sewe_logo (3)](https://github.com/user-attachments/assets/07a8a2e8-3783-4fa4-b199-768163b1775a)
 
 ## Brand Guidelines
 
