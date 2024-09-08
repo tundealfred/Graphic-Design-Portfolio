@@ -6,4 +6,5 @@
 
 ## Brand Guidelines
 
+[AYSAR Presentation 8_Final.pdf](https://github.com/user-attachments/files/16920174/AYSAR.Presentation.8_Final.pdf)
 
