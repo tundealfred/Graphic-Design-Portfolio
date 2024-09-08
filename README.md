@@ -1,7 +1,7 @@
 # Graphic-Design-Portfolio
 
 
-## Social media and Website
+## Websites and Social media
 
 [Cancer Education UK](https://cancereducationuk.org/) 
 
