@@ -8,15 +8,21 @@
 
 <img src="https://github.com/user-attachments/assets/07a8a2e8-3783-4fa4-b199-768163b1775a" width="300" height="300">
 
+<img src="https://github.com/user-attachments/assets/8f8e2162-6c14-455b-b80d-a071e4774ba7" width="300" height="300">
+
+<img src="https://github.com/user-attachments/assets/338589a3-fe41-4c65-a23d-f9ae58c70b1e" width="300" height="300">
+
+<img src="https://github.com/user-attachments/assets/8a017b4d-a161-49e9-93d0-f290ca2a9270" width="300" height="300">
+
 ## Brand Guidelines
 
 [SCML Brand Guidelines Presentation (2).pdf](https://github.com/user-attachments/files/16920180/SCML.Brand.Guidelines.Presentation.2.pdf)
 
-## Business Proposal
+## Business Proposals
 
 [AYSAR Presentation 8_Final.pdf](https://github.com/user-attachments/files/16920174/AYSAR.Presentation.8_Final.pdf)
 
-## Book Cover
+## Book Covers
 
 <img src="https://github.com/user-attachments/assets/1c428480-9d71-4c2b-a294-0d6902fbf0d7" width="400" height="auto">
 
@@ -56,7 +62,14 @@
 
 <img src="https://github.com/user-attachments/assets/54704f5f-118f-49ad-b28b-a6b58d0daa40" width="400" height="auto">
 
-## Letter heads
+## Letterheads
+
+<img src="https://github.com/user-attachments/assets/9a4483a9-f6fa-4349-b62c-758555830b40" width="400" height="auto">
+
+<img src="https://github.com/user-attachments/assets/1c4c3e38-ffdc-41f7-9b51-106028bd8823" width="400" height="auto">
+
+<img src="https://github.com/user-attachments/assets/2e77b904-b0ee-4c26-a2ab-59718c659e8c" width="400" height="auto">
+
 
 
 
