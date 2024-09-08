@@ -22,9 +22,10 @@
 
 <img src="https://github.com/user-attachments/assets/2bfdea1f-fe8b-4f9c-b217-69cafb0eb201" width="500" height="auto">
 
-## Book Cover
 
-![PR-TOOLBOX-BOOKCOVER](https://github.com/user-attachments/assets/1c428480-9d71-4c2b-a294-0d6902fbf0d7)
+
+
+## Book Cover
 
 <img src="https://github.com/user-attachments/assets/1c428480-9d71-4c2b-a294-0d6902fbf0d7" width="500" height="auto">
 
