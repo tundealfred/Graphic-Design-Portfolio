@@ -1,5 +1,19 @@
 # Graphic Design and Multimedia Portfolio
 
+Welcome to my Graphic Design and Multimedia portfolio! This repository showcases a selection of my work in web design, brand development, multimedia content creation, and packaging design.
+
+## Experience:
+With over 5 years of experience, I have worked with a variety of clients, including non-profits, corporations, and community organisations. My roles span across graphic design, web development, and project management, delivering creative solutions that enhance brand identity and engagement.
+
+Key Skills:
+Adobe Illustrator, Photoshop
+UI/UX Design using Figma, WordPress
+3D Packaging Design with Tinkercad
+Typography, Brand Guidelines, Prototyping
+Video Editing, Content Creation
+
+Explore the projects to see how I combine creativity, strategic thinking, and technical expertise in every design.
+
 
 ## Websites and Social media
 
