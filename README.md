@@ -15,7 +15,18 @@ Key Skills:
 Explore the projects to see how I combine creativity, strategic thinking, and technical expertise in every design.
 
 
-## Websites and Social media
+## Full-Stack Dev
+
+[Modern Church Platform - Next.js, TypeScript, Tailwind CSS, Strapi (Node.js), PostgreSQL, Framer Motion](https://church-web-web.vercel.app/)
+
+[Controls and Instrumentation Ltd - React, Tailwind CSS, MongoDB, Express](https://cil-project-react-jmrb.vercel.app/)
+
+[Care Home Management System - React, Tailwind CSS](https://carehome-project-react.vercel.app/)
+
+[Modern Blog Platform with Strapi & React - React, Tailwind CSS, Framer Motion, Strapi (Node.js), PostgreSQL](https://blog-react-strapi-lovat.vercel.app/)
+
+
+## CMS Websites and Social media
 
 [Cancer Education UK](https://cancereducationuk.org/) 
 
